@@ -1,0 +1,4 @@
+{
+    "prettier.enable": true,
+    "prettier.prettierPath": "./node_modules/prettier"
+}
